@@ -15,3 +15,6 @@ app.get('/stocks', async (req, res) => {
 });
 
 app.listen(5000, () => console.log('Stock Tracker працює на порту 5000'));
+
+
+new
